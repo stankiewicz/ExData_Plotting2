@@ -34,3 +34,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+exdata-data-NEI_data.zip
+Source_Classification_Code.rds
+summarySCC_PM25.rds
